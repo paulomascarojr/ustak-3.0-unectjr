@@ -1,0 +1,22 @@
+@charset "UTF-8";
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@200&display=swap');
+
+
+.footer{
+
+color: aliceblue;
+background: #114FA7;
+
+display: flex;
+align-items: center;
+justify-content: space-between;
+
+font-family: 'Poppins';
+position: fixed;
+bottom: 0;
+width: 84%;
+height: 80px;
+
+padding-left: 160px;
+padding-right: 160px;
+ }
